@@ -2,7 +2,7 @@
    "disk":"mount",
    "output":{
       "size":{
-         "width":1440,
+         "width":720,
          "height":1280
       },
       "format":"mp4",
@@ -13,7 +13,7 @@
          }
       ]
    },
-   "callback":"http://studio.mycarpage.io/studiomix/920e50f4-ddfa-430c-8e93-777d346306ff/callback/",
+   "callback":"http://studio.mycarpage.io/studiomix/881d28c8-bafa-4bbe-ac99-e9370f3e82dc/callback/",
    "instance":"a1",
    "timeline":{
       "cache":false,
@@ -44,7 +44,7 @@
             "clips":[
                {
                   "asset":{
-                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/08/29/275%EC%A3%BC9859/MixVideo/Option/Origin/%EC%9A%B4%EC%A0%84%EC%84%9D_%EC%95%9E_%EC%B8%A1%EB%A9%B44793.jpg",
+                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/09/02/61%EA%B5%AC0615/MixVideo/Option/Origin/%EC%9A%B4%EC%A0%84%EC%84%9D_%EC%95%9E_%EC%B8%A1%EB%A9%B41ba9.jpg",
                      "type":"image"
                   },
                   "scale":1,
@@ -66,7 +66,7 @@
             "clips":[
                {
                   "asset":{
-                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/08/29/275%EC%A3%BC9859/MixVideo/Option/Origin/%EC%95%9E%EC%A2%8C%EC%84%9D_%EC%8B%9C%ED%8A%B8e474.jpg",
+                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/09/02/61%EA%B5%AC0615/MixVideo/Option/Origin/%EC%95%9E%EC%A2%8C%EC%84%9D_%EC%8B%9C%ED%8A%B80731.jpg",
                      "type":"image"
                   },
                   "scale":1,
@@ -88,7 +88,7 @@
             "clips":[
                {
                   "asset":{
-                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/08/29/275%EC%A3%BC9859/MixVideo/Option/Origin/%EC%95%9E%EC%97%B4_%EC%A0%84%EA%B2%BDeed7.jpg",
+                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/09/02/61%EA%B5%AC0615/MixVideo/Option/Origin/%EC%95%9E%EC%97%B4_%EC%A0%84%EA%B2%BDb844.jpg",
                      "type":"image"
                   },
                   "scale":1,
@@ -110,7 +110,7 @@
             "clips":[
                {
                   "asset":{
-                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/08/29/275%EC%A3%BC9859/MixVideo/Option/Origin/%EA%B8%B0%EC%96%B4%EB%A0%88%EB%B2%8494b8.jpg",
+                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/09/02/61%EA%B5%AC0615/MixVideo/Option/Origin/%EA%B8%B0%EC%96%B4%EB%A0%88%EB%B2%84c212.jpg",
                      "type":"image"
                   },
                   "scale":1,
@@ -132,7 +132,7 @@
             "clips":[
                {
                   "asset":{
-                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/08/29/275%EC%A3%BC9859/MixVideo/Option/Origin/%EA%B3%84%EA%B8%B0%ED%8C%906ead.jpg",
+                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/09/02/61%EA%B5%AC0615/MixVideo/Option/Origin/%EA%B3%84%EA%B8%B0%ED%8C%904f9d.jpg",
                      "type":"image"
                   },
                   "scale":1,
@@ -154,7 +154,7 @@
             "clips":[
                {
                   "asset":{
-                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/08/29/275%EC%A3%BC9859/MixVideo/Option/Origin/%EC%95%9E_%ED%83%80%EC%9D%B4%EC%96%B45bd9.jpg",
+                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/09/02/61%EA%B5%AC0615/MixVideo/Option/Origin/%EC%95%9E_%ED%83%80%EC%9D%B4%EC%96%B4d913.jpg",
                      "type":"image"
                   },
                   "scale":1,
@@ -176,7 +176,7 @@
             "clips":[
                {
                   "asset":{
-                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/08/29/275%EC%A3%BC9859/MixVideo/Option/Down/frame_2s_e0a2.jpg",
+                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/09/02/61%EA%B5%AC0615/MixVideo/Option/Down/frame_2s_fc29.jpg",
                      "type":"image"
                   },
                   "scale":1,
@@ -198,7 +198,7 @@
             "clips":[
                {
                   "asset":{
-                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/08/29/275%EC%A3%BC9859/MixVideo/Option/Origin/%EB%B3%B4%EC%A1%B0%EC%84%9D_%EB%92%A4_%EC%B8%A1%EB%A9%B4860c.jpg",
+                     "src":"https://mcp-studio-dev.s3.amazonaws.com/protected/2024/09/02/61%EA%B5%AC0615/MixVideo/Option/Origin/%EB%B3%B4%EC%A1%B0%EC%84%9D_%EB%92%A4_%EC%B8%A1%EB%A9%B4efc9.jpg",
                      "type":"image"
                   },
                   "scale":1,
